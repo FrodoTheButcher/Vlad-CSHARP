@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRINTING-DATA/1.0.0": {
+        "runtime": {
+          "PRINTING-DATA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRINTING-DATA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

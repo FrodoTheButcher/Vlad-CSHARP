@@ -1,0 +1,15 @@
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\bin\Debug\net8.0\PRINTING-DATA.exe
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\bin\Debug\net8.0\PRINTING-DATA.deps.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\bin\Debug\net8.0\PRINTING-DATA.runtimeconfig.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\bin\Debug\net8.0\PRINTING-DATA.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\bin\Debug\net8.0\PRINTING-DATA.pdb
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.AssemblyInfoInputs.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.AssemblyInfo.cs
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.csproj.CoreCompileInputs.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.sourcelink.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\refint\PRINTING-DATA.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.pdb
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\PRINTING-DATA.genruntimeconfig.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\PRINTING-DATA\obj\Debug\net8.0\ref\PRINTING-DATA.dll
