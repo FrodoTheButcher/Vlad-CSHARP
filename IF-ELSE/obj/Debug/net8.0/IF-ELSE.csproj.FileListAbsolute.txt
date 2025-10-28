@@ -1,0 +1,15 @@
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\bin\Debug\net8.0\IF-ELSE.exe
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\bin\Debug\net8.0\IF-ELSE.deps.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\bin\Debug\net8.0\IF-ELSE.runtimeconfig.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\bin\Debug\net8.0\IF-ELSE.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\bin\Debug\net8.0\IF-ELSE.pdb
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.AssemblyInfoInputs.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.AssemblyInfo.cs
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.sourcelink.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\refint\IF-ELSE.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.pdb
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\IF-ELSE.genruntimeconfig.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\IF-ELSE\obj\Debug\net8.0\ref\IF-ELSE.dll
