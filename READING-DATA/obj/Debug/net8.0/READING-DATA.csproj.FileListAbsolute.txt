@@ -1,0 +1,15 @@
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\bin\Debug\net8.0\READING-DATA.exe
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\bin\Debug\net8.0\READING-DATA.deps.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\bin\Debug\net8.0\READING-DATA.runtimeconfig.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\bin\Debug\net8.0\READING-DATA.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\bin\Debug\net8.0\READING-DATA.pdb
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.AssemblyInfoInputs.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.AssemblyInfo.cs
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.csproj.CoreCompileInputs.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.sourcelink.json
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\refint\READING-DATA.dll
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.pdb
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\READING-DATA.genruntimeconfig.cache
+C:\Users\Robi\Desktop\Vlad-CSHARP\READING-DATA\obj\Debug\net8.0\ref\READING-DATA.dll

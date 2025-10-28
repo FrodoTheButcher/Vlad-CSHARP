@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Robi\\Desktop\\Vlad-CSHARP\\PRINTING-DATA\\",
+  "WorkspaceRootPath": "C:\\Users\\Robi\\Desktop\\Vlad-CSHARP\\READING-DATA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA9F775F-D179-430B-A9D4-DB9D908D33BD}|PRINTING-DATA.csproj|c:\\users\\robi\\desktop\\vlad-csharp\\printing-data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA9F775F-D179-430B-A9D4-DB9D908D33BD}|PRINTING-DATA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75F194A8-99D6-4709-B3B3-B5109A9184A5}|READING-DATA.csproj|c:\\users\\robi\\desktop\\vlad-csharp\\reading-data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F194A8-99D6-4709-B3B3-B5109A9184A5}|READING-DATA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,13 +60,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\Vlad-CSHARP\\PRINTING-DATA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robi\\Desktop\\Vlad-CSHARP\\READING-DATA\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Robi\\Desktop\\Vlad-CSHARP\\PRINTING-DATA\\Program.cs",
+              "ToolTip": "C:\\Users\\Robi\\Desktop\\Vlad-CSHARP\\READING-DATA\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T16:27:33.064Z",
+              "WhenOpened": "2025-10-28T16:37:42.671Z",
               "EditorCaption": ""
             }
           ]
